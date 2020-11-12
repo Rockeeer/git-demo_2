@@ -97,6 +97,9 @@ public class Main {
                 admin.methodAdmin();
                 User admin1 = new Admin();
                 String b = admin.getFirstName();
+                System.out.println(b);
+                
+
 
 
             }
