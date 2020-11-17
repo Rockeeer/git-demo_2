@@ -7,12 +7,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1jbSw9z2p6hdKovLFy7dQD2BZil" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
@@ -41,21 +49,29 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="WindowStateProjectService">
-    <state width="1259" height="202" key="GridCell.Tab.0.bottom" timestamp="1605175000899">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1419" height="209" key="GridCell.Tab.0.bottom" timestamp="1605594570149">
+      <screen x="0" y="23" width="1680" height="949" />
     </state>
     <state width="1259" height="202" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1605175000899" />
-    <state width="1259" height="202" key="GridCell.Tab.0.center" timestamp="1605175000899">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1419" height="209" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1605594570149" />
+    <state width="1419" height="209" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1605472458408" />
+    <state width="1419" height="209" key="GridCell.Tab.0.center" timestamp="1605594570148">
+      <screen x="0" y="23" width="1680" height="949" />
     </state>
     <state width="1259" height="202" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1605175000899" />
-    <state width="1259" height="202" key="GridCell.Tab.0.left" timestamp="1605175000898">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1419" height="209" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1605594570148" />
+    <state width="1419" height="209" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1605472458408" />
+    <state width="1419" height="209" key="GridCell.Tab.0.left" timestamp="1605594570148">
+      <screen x="0" y="23" width="1680" height="949" />
     </state>
     <state width="1259" height="202" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1605175000898" />
-    <state width="1259" height="202" key="GridCell.Tab.0.right" timestamp="1605175000899">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1419" height="209" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1605594570148" />
+    <state width="1419" height="209" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1605472458407" />
+    <state width="1419" height="209" key="GridCell.Tab.0.right" timestamp="1605594570149">
+      <screen x="0" y="23" width="1680" height="949" />
     </state>
     <state width="1259" height="202" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1605175000899" />
+    <state width="1419" height="209" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1605594570149" />
+    <state width="1419" height="209" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1605472458408" />
   </component>
 </project>
